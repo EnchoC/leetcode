@@ -1,2 +1,2 @@
-# leetcode_every
+# leetcode every day
 Algorithm practice
